@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #863535;
+}
+.rodape {
+  font-size: 40px;
+  color: #02847f;
+}
+.altura-botao {
+  margin-top: 33px;
+}
+.direito10 {
+  margin-right: 10px;
+}

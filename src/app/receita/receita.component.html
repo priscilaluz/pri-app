@@ -1,0 +1,66 @@
+<div class="row">
+    <div class="col-md-8">
+        <Label>Nome:</Label>
+        <input type="text" class="form-control" placeholder="Nome" [(ngModel)]="filtro.nome">
+    </div>
+    <div class="col-md-4">
+        <Label>Tipo:</Label>
+        <select id="inputState" class="form-control" [(ngModel)]="filtro.tipo" >
+            <option selected>Todos</option>
+            <option *ngFor="let tipo of tipos">{{tipo}}</option>
+        </select>
+    </div>
+    <div class="col-md-11">
+        <Label>Modo de Preparo:</Label>
+        <input type="text" class="form-control" placeholder="Modo de Preparo" [(ngModel)]="filtro.modoPreparo">
+    </div>
+    <div class="col-md-1">
+        <button type="button" class="btn btn-info pull-right altura-botao" (click)="pesquisar()">Pesquisar</button>
+    </div>
+    <div class="col-md-12 altura-botao">
+        <table class="table table-sm table-light table-bordered">
+            <thead>
+                <tr>
+                    <th width="10"></th>
+                    <th>Nome</th>
+                    <th width="200">Tipo</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let receita of receitas">
+                    <th><a (click)="verReceita(content, receita)" [routerLink]=""><i class="fa fa-search"></i></a></th>
+                    <td>{{receita.nome}}</td>
+                    <td>{{receita.tipo}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <br>
+    <div class="col-md-12 text-center rodape">
+        <hr>
+        <i class="fa fa-cutlery"></i>
+    </div>
+</div>
+
+<ng-template #content let-c="close" let-d="dismiss">
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Ver Receita <i class="fa fa-cutlery"></i></h4>
+        <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <p class="sub-titulo-tela">Ingredientes:</p>
+        <span *ngFor="let ingrediente of receita.ingredientes">
+            <i class="fa fa-circle"></i> &nbsp;<b>{{ingrediente.nome}}</b> - {{ingrediente.quantidade}}
+            <br>
+        </span>
+        <hr>
+        <p class="sub-titulo-tela">Modo de preparar:</p>
+        <div [innerHTML]="receita.modoPreparo"></div>
+    </div>
+    <div class="modal-footer">
+    </div>
+</ng-template>
+  

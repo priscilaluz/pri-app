@@ -1,0 +1,19 @@
+.titulo {
+    color: #863535;
+    font-size:30px;
+}
+.descricao {
+    color: #5e0284;
+    font-size:20px;
+}
+.sessao {
+    border-style: dashed;
+    border-color: #ffc007;
+    border-radius: 10px;
+}
+hr.primeira {
+    border-top: 2px dotted #9b760b;
+}
+hr.segunda {
+    border-top: 3px dashed #ffc007;
+}

@@ -1,0 +1,56 @@
+<div  class="fonts-usadas">
+  <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+    <a class="navbar-brand" href="#"><i class="fa fa-home"></i> Meu Espaço</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="receita">
+            <i class="fa fa-cutlery"></i> Receitas
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="estudo">
+            <i class="fa fa-lightbulb-o"></i> Estudos
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/construindo">
+            <i class="fa fa-spinner"></i>
+            Em Construção Infinita
+            <i class="fa fa-spinner"></i>
+          </a>
+        </li>
+        <!--
+        <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-film"></i> Séries/Filmes</a></li>
+        -->
+      </ul>
+    </div>
+  </nav>
+  <br>
+  <div class="container">
+      <div class="row titulo-pags">
+        <div class="col-md-12 text-center">
+          <h1>{{pagina}}</h1>
+          <h3>
+              <i class="fa fa-heart heart"></i>&nbsp;
+              <i class="fa fa-globe globe"></i>&nbsp;
+              <i class="fa fa-plane plane"></i>&nbsp;
+              <i class="fa fa-music music"></i>&nbsp;
+              <i class="fa fa-laptop laptop"></i>&nbsp;
+              <i class="fa fa-battery-quarter battery"></i>&nbsp;
+              <i class="fa fa-code code"></i>&nbsp;
+              <i class="fa fa-area-chart area"></i>&nbsp;
+              <i class="fa fa-cube cube"></i>&nbsp;
+          </h3>
+        </div>
+    </div>
+  </div>
+  <div class="container container-pags">
+    <br>
+    <router-outlet></router-outlet>
+    <br>
+  </div>
+</div>

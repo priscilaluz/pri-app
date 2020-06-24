@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "nome": "Pão",
+    "tipo": "Salgado",
+    "modoPreparo": "No liquidificador bater todos ingredientes menos o fermento e a farinha de trigo, acrescente o fermento e bata novamente. Despeje em uma tigela e acrescente a farinha aos poucos. (Pode ser necessário acrescentar um pouco mais de farinha). <br> Deixe descansar por algumas horas e depois coloque no forno.",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "3"},
+        {"nome": "Óleo", "quantidade": "1/2 xícara"},
+        {"nome": "Margarina", "quantidade": "1 colher"},
+        {"nome": "Sal", "quantidade": "1 colher pequena"},
+        {"nome": "Açúcar", "quantidade": "3 colheres"},
+        {"nome": "Leite morno", "quantidade": "2 xícaras"},
+        {"nome": "Fermento", "quantidade": "1 colher"},
+        {"nome": "Farinha de Trigo", "quantidade": "5 xícaras"}
+    ]
+},
+{
+    "id": 2,
+    "nome": "Salada de lentilha",
+    "tipo": "Salada",
+    "modoPreparo": "Cozinhe a lentilha como se fosse arroz",
+    "ingredientes": [
+        {"nome": "Lentilha", "quantidade": "2 xícaras"},
+        {"nome": "Cebola", "quantidade": "1 grande"}
+    ]
+}
+]
