@@ -45,7 +45,7 @@ export class ReceitaComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.tipos = ["Salgado", "Salada"];
+    this.tipos = ["Bolo", "Cheesecake", "Salgado", "Salada", "Sopa"];
     this.filtro = new Filtro();
     this.http.get<Receita[]>('assets/dados.json').subscribe(response => {
       this.receitas = response;

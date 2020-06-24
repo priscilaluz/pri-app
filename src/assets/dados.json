@@ -2,9 +2,9 @@
     "id": 1,
     "nome": "Pão",
     "tipo": "Salgado",
-    "modoPreparo": "No liquidificador bater todos ingredientes menos o fermento e a farinha de trigo, acrescente o fermento e bata novamente. Despeje em uma tigela e acrescente a farinha aos poucos. (Pode ser necessário acrescentar um pouco mais de farinha). <br> Deixe descansar por algumas horas e depois coloque no forno.",
+    "modoPreparo": "1- No liquidificador bater todos ingredientes menos o fermento e a farinha de trigo.<br> 2- Acrescente o fermento e bata novamente. <br> 3- Despeje em uma tigela e acrescente a farinha aos poucos. (Pode ser necessário acrescentar um pouco mais de farinha) <br> 4- Deixe descansar até o pão crescer. <br> 5- Coloque em uma forma e deixe descançar novamente. <br> 6 Coloque no forno pré-aquecido e espere o pão ficar corado.",
     "ingredientes": [
-        {"nome": "Ovo", "quantidade": "3"},
+        {"nome": "Ovo", "quantidade": "3 unidades"},
         {"nome": "Óleo", "quantidade": "1/2 xícara"},
         {"nome": "Margarina", "quantidade": "1 colher"},
         {"nome": "Sal", "quantidade": "1 colher pequena"},
@@ -16,12 +16,144 @@
 },
 {
     "id": 2,
-    "nome": "Salada de lentilha",
-    "tipo": "Salada",
-    "modoPreparo": "Cozinhe a lentilha como se fosse arroz",
+    "nome": "Bolo de Nozes e Castanha",
+    "tipo": "Bolo",
+    "modoPreparo": "200 graus por 30-40 min.",
     "ingredientes": [
-        {"nome": "Lentilha", "quantidade": "2 xícaras"},
-        {"nome": "Cebola", "quantidade": "1 grande"}
+        {"nome": "Farinha de nozes", "quantidade": "1 xícara"},
+        {"nome": "Farinha de castanha do pará", "quantidade": "1 xícara"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Óleo de coco", "quantidade": "2 colheres de sopa"},
+        {"nome": "Açucar demerara", "quantidade": "1 xícara"},
+        {"nome": "Farinha de linhaça", "quantidade": "4 colheres"},
+        {"nome": "Fermento", "quantidade": "1 colher"},
+        {"nome": "Leite de coco", "quantidade": "200ml"},
+        {"nome": "Coco ralado", "quantidade": "100g"}
+    ]
+},
+{
+    "id": 3,
+    "nome": "Bolo de Ameixa",
+    "tipo": "Bolo",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Farinha de arroz", "quantidade": "1 xícara"},
+        {"nome": "Farinha de milho", "quantidade": "1/2 xícara"},
+        {"nome": "Ameixa seca", "quantidade": "1 e 1/2 xícara"},
+        {"nome": "Linhaça", "quantidade": "3 colheres de sopa"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Óleo de coco", "quantidade": "1 e 1/2 xícara"},
+        {"nome": "Açucar mascavo", "quantidade": "1 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher"},
+        {"nome": "Sal", "quantidade": "1 pitada"},
+        {"nome": "Água do cozimento das ameixas", "quantidade": "1 xícara"}
+    ]
+},
+{
+    "id": 4,
+    "nome": "Bolo de Chocolate",
+    "tipo": "Bolo",
+    "modoPreparo": "Assar por pouco tempo (30 min)",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "3 unidades"},
+        {"nome": "Manteiga", "quantidade": "3 colheres"},
+        {"nome": "Açucar de confeiteiro", "quantidade": "1 xícara"},
+        {"nome": "Farinha de trigo", "quantidade": "2 xícara"},
+        {"nome": "Cacau em pó", "quantidade": "1/2 xícara"},
+        {"nome": "Leite", "quantidade": "1 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher de sopa"}
+    ]
+},
+{
+    "id": 5,
+    "nome": "Bolo Branco",
+    "tipo": "Bolo",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Manteiga", "quantidade": "4 colheres"},
+        {"nome": "Açucar", "quantidade": "2 xícara"},
+        {"nome": "Farinha de trigo", "quantidade": "3 xícara"},
+        {"nome": "Leite", "quantidade": "1 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher de sopa"},
+        {"nome": "Sal", "quantidade": "1 pitada"}
+    ]
+},
+{
+    "id": 6,
+    "nome": "Bolo Banana sem farinha e sem açucar",
+    "tipo": "Bolo",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "3 unidades"},
+        {"nome": "Banana nanica", "quantidade": "5 unidades"},
+        {"nome": "Uva passa se caroço", "quantidade": "1 xícara"},
+        {"nome": "Aveia Fina", "quantidade": "2 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher de sopa"},
+        {"nome": "Óleo", "quantidade": "1/2 xícara"}
+    ]
+},
+{
+    "id": 7,
+    "nome": "Bolo camuflado (Bolo de Nozes)",
+    "tipo": "Bolo",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "6 unidades"},
+        {"nome": "Manteiga", "quantidade": "150g"},
+        {"nome": "Açúcar", "quantidade": "1 e 3/4 xícara"},
+        {"nome": "Leite", "quantidade": "1 xícara"},
+        {"nome": "Nozes trituradas", "quantidade": "200g"},
+        {"nome": "Farinha de trigo", "quantidade": "1 3 1/4 xícara"},
+        {"nome": "Essência de baunilha", "quantidade": "1 colher"},
+        {"nome": "Fermento", "quantidade": "4 colheres de chá"},
+        {"nome": "------ Recheio ------", "quantidade": ""},
+        {"nome": "Manteiga", "quantidade": "50g"},
+        {"nome": "Nozes", "quantidade": "100g"},
+        {"nome": "Leite condensado", "quantidade": "1 lata"},
+        {"nome": "Creme de leite", "quantidade": "100g"}
+    ]
+},
+{
+    "id": 8,
+    "nome": "Cheesecake de Acerola",
+    "tipo": "Cheesecake",
+    "modoPreparo": "No recheio, bater todos os ingrediente (menos os ovos). <br> Assar 180graus, 1h em banho maria.<br> <hr>Para a geleia, colocar Acerola + Açúcar + suco de limão = 1h<br> junte a água no fogo médio por 30 min<br>Passe no espremedor para tirar o caroço",
+    "ingredientes": [
+        {"nome": "Biscoito de maisena", "quantidade": "1 pacote"},
+        {"nome": "Manteiga derretida", "quantidade": "150g"},
+        {"nome": "Sal", "quantidade": "1 pitada"},
+        {"nome": "------ Recheio ------", "quantidade": ""},
+        {"nome": "Cheam Cheese", "quantidade": "600g"},
+        {"nome": "Creme de leite", "quantidade": "150g"},
+        {"nome": "Açúcar", "quantidade": "225g"},
+        {"nome": "Suco e raspa de limão", "quantidade": "1/2"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "------ Geleia de Acerola ------", "quantidade": ""},
+        {"nome": "Acerola", "quantidade": "600g"},
+        {"nome": "Açúcar demerara", "quantidade": "10 colheres"},
+        {"nome": "Água", "quantidade": "150ml"},
+        {"nome": "Suco de limão", "quantidade": "3 colheres"}
+    ]
+},
+{
+    "id": 100,
+    "nome": "Sopa Thai de Camarão",
+    "tipo": "Sopa",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Azeite de oliva", "quantidade": "2 colheres"},
+        {"nome": "Cebola branca picada em cubos", "quantidade": "1/2 cebola"},
+        {"nome": "Dente de alho picado", "quantidade": "4 unidades"},
+        {"nome": "Abóbora cortada em cubos", "quantidade": "3 copos"},
+        {"nome": "Leite de coco light", "quantidade": "400ml"},
+        {"nome": "Caldo de legumes", "quantidade": "400ml"},
+        {"nome": "Gergelim ralado e espremido", "quantidade": "2 colheres de sopa"},
+        {"nome": "Dedo de moça sem semente", "quantidade": "1 pitada"},
+        {"nome": "Camarão médio sem pele e sem cabeça", "quantidade": "300g"},
+        {"nome": "Limão", "quantidade": "4 colheres de sopa"},
+        {"nome": "Sal", "quantidade": "A gosto"},
+        {"nome": "Coentro", "quantidade": "2 colheres de sopa"}
     ]
 }
 ]
