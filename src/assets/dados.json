@@ -1,7 +1,8 @@
-[{
+[
+{
     "id": 1,
-    "nome": "Pão",
-    "tipo": "Salgado",
+    "nome": "Pão/Pizza",
+    "tipo": "Pão/Pizza",
     "modoPreparo": "1- No liquidificador bater todos ingredientes menos o fermento e a farinha de trigo.<br> 2- Acrescente o fermento e bata novamente. <br> 3- Despeje em uma tigela e acrescente a farinha aos poucos. (Pode ser necessário acrescentar um pouco mais de farinha) <br> 4- Deixe descansar até o pão crescer. <br> 5- Coloque em uma forma e deixe descançar novamente. <br> 6 Coloque no forno pré-aquecido e espere o pão ficar corado.",
     "ingredientes": [
         {"nome": "Ovo", "quantidade": "3 unidades"},
@@ -15,7 +16,65 @@
     ]
 },
 {
+    "id": 1,
+    "nome": "Pizza - TERMINAR DEPOIS",
+    "tipo": "Pão/Pizza",
+    "modoPreparo": "---",
+    "ingredientes": [
+		{"nome": "Farinha de Trigo", "quantidade": "1 kg"},
+        {"nome": "Açúcar", "quantidade": "3 colheres"},
+		{"nome": "Sal", "quantidade": "1 colher"},
+		{"nome": "Fermento", "quantidade": "1 colher"},
+        {"nome": "Água morna", "quantidade": "500 ml"},
+        {"nome": "Azeite", "quantidade": "1 colher"},
+		{"nome": "---------", "quantidade": ""},
+		{"nome": "--5 min-", "quantidade": ""},
+		{"nome": "Açúcar", "quantidade": "1 colher de chá"},
+		{"nome": "Fermento", "quantidade": "1 colher de sopa"},
+		{"nome": "---------", "quantidade": ""},
+		{"nome": "Farinha de Trigo", "quantidade": "3 xícaras"},
+		{"nome": "Sal", "quantidade": "1 colher"},
+		{"nome": "Azeite", "quantidade": "1 colher"},
+		{"nome": "Água morna", "quantidade": "500 ml"}
+    ]
+},
+{
     "id": 2,
+    "nome": "Pão de Aveia e Mel",
+    "tipo": "Pão/Pizza",
+    "modoPreparo": "Na batedeira<br> Misturar metade da farinha na batedeira, junto com açúcar mascavo e fermento + leite e bater até dissolver. Adicionar os outros ingredientes e bater por 3 min.<br> Colocar em forma untada e enfarinhada, deixe crescer por 40 min.<br> Decorar com aveia em flocos.<br> Assar 240 graus por 40 min.",
+    "ingredientes": [
+        {"nome": "Farinha de Trigo", "quantidade": "2 xícaras"},
+        {"nome": "Fermento biológo seco", "quantidade": "1 colher de sopa"},
+        {"nome": "Açúcar mascavo", "quantidade": "1 colher de sopa"},
+        {"nome": "Leite morno", "quantidade": "1 e 1/2 xícaras (300ml)"},
+        {"nome": "Ovo", "quantidade": "2 unidades"},
+        {"nome": "Farinha de trigo integral", "quantidade": "1/2 xícaras"},
+        {"nome": "Farelo de trigo", "quantidade": "1 colher"},
+        {"nome": "Aveio em flocos finos", "quantidade": "1/2 xícaras"},
+        {"nome": "Farelo de aveio", "quantidade": "1/2 xícaras"},
+        {"nome": "Mel", "quantidade": "1/4 xícaras (50ml)"},
+        {"nome": "Óleo", "quantidade": "1/4 xícaras"},
+        {"nome": "Sal", "quantidade": "1/2 colher de chá"}
+        
+    ]
+},
+{
+    "id": 3,
+    "nome": "Empanada",
+    "tipo": "Pão/Pizza",
+    "modoPreparo": "No liquidificador, bater o ovo, óleo, metade do pacote de queijo ralado e o leite.<br> Depois acrescente a farinha e bata novamente. <br> Colocar na forma, coloque os recheios desejados (atum, milho verde, cebola, ervilha...)<br> Finalize com o resto do queijo ralado.<br>Coloque no forno e esper dourar.",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "3 unidades"},
+        {"nome": "Óleo", "quantidade": "3/4 xícara"},
+        {"nome": "Queijo ralado", "quantidade": "1 pacote"},
+        {"nome": "Leite", "quantidade": "2 xícaras"},
+        {"nome": "Farinha de Trigo", "quantidade": "2 xícaras"},
+        {"nome": "Fermento", "quantidade": "1 colher"}
+    ]
+},
+{
+    "id": 4,
     "nome": "Bolo de Nozes e Castanha",
     "tipo": "Bolo",
     "modoPreparo": "200 graus por 30-40 min.",
@@ -24,7 +83,7 @@
         {"nome": "Farinha de castanha do pará", "quantidade": "1 xícara"},
         {"nome": "Ovo", "quantidade": "4 unidades"},
         {"nome": "Óleo de coco", "quantidade": "2 colheres de sopa"},
-        {"nome": "Açucar demerara", "quantidade": "1 xícara"},
+        {"nome": "Açúcar demerara", "quantidade": "1 xícara"},
         {"nome": "Farinha de linhaça", "quantidade": "4 colheres"},
         {"nome": "Fermento", "quantidade": "1 colher"},
         {"nome": "Leite de coco", "quantidade": "200ml"},
@@ -32,7 +91,7 @@
     ]
 },
 {
-    "id": 3,
+    "id": 5,
     "nome": "Bolo de Ameixa",
     "tipo": "Bolo",
     "modoPreparo": "--",
@@ -43,21 +102,21 @@
         {"nome": "Linhaça", "quantidade": "3 colheres de sopa"},
         {"nome": "Ovo", "quantidade": "4 unidades"},
         {"nome": "Óleo de coco", "quantidade": "1 e 1/2 xícara"},
-        {"nome": "Açucar mascavo", "quantidade": "1 xícara"},
+        {"nome": "Açúcar mascavo", "quantidade": "1 xícara"},
         {"nome": "Fermento", "quantidade": "1 colher"},
         {"nome": "Sal", "quantidade": "1 pitada"},
         {"nome": "Água do cozimento das ameixas", "quantidade": "1 xícara"}
     ]
 },
 {
-    "id": 4,
+    "id": 6,
     "nome": "Bolo de Chocolate",
     "tipo": "Bolo",
     "modoPreparo": "Assar por pouco tempo (30 min)",
     "ingredientes": [
         {"nome": "Ovo", "quantidade": "3 unidades"},
         {"nome": "Manteiga", "quantidade": "3 colheres"},
-        {"nome": "Açucar de confeiteiro", "quantidade": "1 xícara"},
+        {"nome": "Açúcar de confeiteiro", "quantidade": "1 xícara"},
         {"nome": "Farinha de trigo", "quantidade": "2 xícara"},
         {"nome": "Cacau em pó", "quantidade": "1/2 xícara"},
         {"nome": "Leite", "quantidade": "1 xícara"},
@@ -65,14 +124,29 @@
     ]
 },
 {
-    "id": 5,
+    "id": 6,
+    "nome": "Bolo de Chocolate (Lari)",
+    "tipo": "Bolo",
+    "modoPreparo": "- Bata as claras em neve e reserve. <br>- Bata as gemas, açucar e margarina ate forma um creme bem liso.<br> - Adicionar o leite, farinha e chocolate. Por último, misture as claras em neve e o fermento.<br>- Assar por 45 min.",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Margatina", "quantidade": "4 colheres"},
+        {"nome": "Açúcar", "quantidade": "1 copo"},
+		{"nome": "Leite", "quantidade": "1 copo"},
+        {"nome": "Farinha de trigo", "quantidade": "2 copos"},
+        {"nome": "Cacau em pó", "quantidade": "1 copo"},
+        {"nome": "Fermento", "quantidade": "1 colher de sopa"}
+    ]
+},
+{
+    "id": 7,
     "nome": "Bolo Branco",
     "tipo": "Bolo",
     "modoPreparo": "--",
     "ingredientes": [
         {"nome": "Ovo", "quantidade": "4 unidades"},
         {"nome": "Manteiga", "quantidade": "4 colheres"},
-        {"nome": "Açucar", "quantidade": "2 xícara"},
+        {"nome": "Açúcar", "quantidade": "2 xícara"},
         {"nome": "Farinha de trigo", "quantidade": "3 xícara"},
         {"nome": "Leite", "quantidade": "1 xícara"},
         {"nome": "Fermento", "quantidade": "1 colher de sopa"},
@@ -80,7 +154,7 @@
     ]
 },
 {
-    "id": 6,
+    "id": 8,
     "nome": "Bolo Banana sem farinha e sem açucar",
     "tipo": "Bolo",
     "modoPreparo": "--",
@@ -94,7 +168,24 @@
     ]
 },
 {
-    "id": 7,
+    "id": 8,
+    "nome": "Pão/Bolo Aveia e canela",
+    "tipo": "Bolo",
+    "modoPreparo": "- Misturar tudo. <br> - Cobrir a forma com aveia. <br> Colocar na forma e assar por 50min, 180 graus. ",
+    "ingredientes": [
+        {"nome": "Castanha de caju triturada", "quantidade": "1 xícara"},
+        {"nome": "Aveia em flocos finos", "quantidade": "2 xícaras"},
+        {"nome": "Leite de coco", "quantidade": "3/4 xícara"},
+        {"nome": "Óleo de coco", "quantidade": "3 colheres"},
+        {"nome": "Açúcar demerara/mascavo", "quantidade": "1/2 xícara"},
+		{"nome": "Canela", "quantidade": "1 colher de sopa"},
+		{"nome": "Banana prata madura e amassada", "quantidade": "3 unidades"},
+		{"nome": "Ovo", "quantidade": "1 unidade"},
+		{"nome": "Fermento", "quantidade": "1 e 1/2 colher de sopa"}
+    ]
+},
+{
+    "id": 9,
     "nome": "Bolo camuflado (Bolo de Nozes)",
     "tipo": "Bolo",
     "modoPreparo": "--",
@@ -115,11 +206,108 @@
     ]
 },
 {
-    "id": 8,
+    "id": 9,
+    "nome": "Bolo de Tapioco",
+    "tipo": "Bolo",
+    "modoPreparo": "- Misture a tapioca + (3 e 1/2) xícaras de leite e deixe repousar por 1h.<br>- Na batedeira, bata os ovos, açúcar e manteiga.<br>- Acrescentae o coco, o resto do leite e a tapioca hidratada.",
+    "ingredientes": [
+        {"nome": "Açúcar", "quantidade": "2 xícaras"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Coco ralado fresco", "quantidade": "1/2 xícara"},
+        {"nome": "Leite", "quantidade": "5 e 1/2 xícara"},
+        {"nome": "Tapioca granulada", "quantidade": "2 xícara"},
+        {"nome": "Manteiga", "quantidade": "150g"}
+    ]
+},
+{
+    "id": 9,
+    "nome": "Bolo de piña colada (Abacaxi c/ Coco)",
+    "tipo": "Bolo",
+    "modoPreparo": "--",
+    "ingredientes": [
+        {"nome": "Manteiga", "quantidade": "100g (2 colheres)"},
+        {"nome": "Açúcar", "quantidade": "3/4 xícaras"},
+        {"nome": "Licor de coco ou abacaxi", "quantidade": "2 colheres"},
+        {"nome": "Ovo", "quantidade": "3 unidades"},
+        {"nome": "Abacaxi em calda escorrido e picado", "quantidade": "420g"},
+        {"nome": "Leite de coco", "quantidade": "2/3 xícara"},
+        {"nome": "Coco queimado em flocos", "quantidade": "1 e 1/2 xícara"},
+        {"nome": "Farinha de trigo (s/ fermento)", "quantidade": "1 e 1/2 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher"}
+        
+    ]
+},
+{
+    "id": 9,
+    "nome": "Bolo de milho",
+    "tipo": "Bolo",
+    "modoPreparo": "- Bater no Liquidificador os ingredientes da lista 1.<br> - Adicionar os itens da lista 2.<br> - Adicionar os itens da lista 3.",
+    "ingredientes": [
+		{"nome": "------ 1 ------", "quantidade": ""},
+        {"nome": "Lata de milho", "quantidade": "2 unidade"},
+        {"nome": "Ovo", "quantidade": "5 unidades"},
+		{"nome": "------ 2 ------", "quantidade": ""},
+        {"nome": "Manteiga", "quantidade": "2 colheres"},
+        {"nome": "Leite condensado", "quantidade": "1 unidades"},
+        {"nome": "Pacote de coco", "quantidade": "1 unidade"},
+		{"nome": "------ 3 ------", "quantidade": ""},
+        {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+        {"nome": "Fermento", "quantidade": "1 colher de sopa"}
+        
+    ]
+},
+{
+    "id": 9,
+    "nome": "Bolo de Cenoura s/ gluten s/ lactose (MUITO BOM - Ni)",
+    "tipo": "Bolo",
+    "modoPreparo": "- No liquidificador, bater todos os molhados. <br> - Misturar os secos em uma tigela. <br> - Misturar tudo na forma de muffin ou de pudin e assar no forno a 200 graus por mais ou menos 30min.<br> Para a cobertura, derreter o açúcar em água na panela no fogo e depis adicionar o cacau em pó e esperar engrossar.",
+    "ingredientes": [
+		{"nome": "------ Molhados ------", "quantidade": ""},
+        {"nome": "Cenouras médias", "quantidade": "2 unidades"},
+        {"nome": "Óleo de coco", "quantidade": "1/2 xícara"},
+        {"nome": "Mel", "quantidade": "1/3 xícara"},
+        {"nome": "Açúcar demerara ou mascavo", "quantidade": "1/4 xícara"},
+        {"nome": "Ovo", "quantidade": "2 unidades"},
+        {"nome": "Farinha de linhaça dourada ou marrom", "quantidade": "2 colheres de sopa"},
+        {"nome": "Água", "quantidade": "1/4 xícara"},
+		{"nome": "------ Secos ------", "quantidade": ""},
+		{"nome": "Farinha de arroz", "quantidade": "1 xícara"},
+		{"nome": "Farinha de aveia", "quantidade": "1/2 xícara"},
+		{"nome": "Bicarbonato", "quantidade": "1 colher de chá"},
+		{"nome": "Fermento p/ bolo", "quantidade": "1 colher de chá"},
+		{"nome": "------ Cobertura ------", "quantidade": ""},
+		{"nome": "Água", "quantidade": "1 xícara"},
+		{"nome": "Açúcar demerara", "quantidade": "1/2 xícara"},
+		{"nome": "Cacau em pó", "quantidade": "1/2 xícara"}
+    ]
+},
+{
+    "id": 9,
+    "nome": "Bolacha de Aveia, Nozes e Semente de linhaça",
+    "tipo": "Bolo",
+    "modoPreparo": "- Em uma tigela, misture todos os itens da lista 1. <br>- Em outra tigela, misture todos os itens da lista 2. <br>- Misturar tudo e moldar bolacha c uma colher. <br> - Assar em tabuleiro untado e enfarinhado.",
+    "ingredientes": [
+		{"nome": "------ 1 ------", "quantidade": ""},
+        {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+        {"nome": "Semente de linhaça", "quantidade": "2 colheres"},
+        {"nome": "Sal", "quantidade": "1/2 colher de chá"},
+		{"nome": "Bicarbonato", "quantidade": "1/2 colher de chá"},
+        {"nome": "Nozes em pedaços", "quantidade": "1/2 xícara"},
+        {"nome": "Aveia em flocos", "quantidade": "1 xícara"},
+        {"nome": "Passas", "quantidade": "1/2 xícara"},
+		{"nome": "------ 2 ------", "quantidade": ""},
+		{"nome": "Mel", "quantidade": "2 colheres"},
+		{"nome": "Açúcar mascavo ou demerara", "quantidade": "1/2 xícara"},
+		{"nome": "Óleo de coco", "quantidade": "1/2 xícara"}
+    ]
+},
+{
+    "id": 10,
     "nome": "Cheesecake de Acerola",
-    "tipo": "Cheesecake",
+    "tipo": "Sobremesa",
     "modoPreparo": "No recheio, bater todos os ingrediente (menos os ovos). <br> Assar 180graus, 1h em banho maria.<br> <hr>Para a geleia, colocar Acerola + Açúcar + suco de limão = 1h<br> junte a água no fogo médio por 30 min<br>Passe no espremedor para tirar o caroço",
     "ingredientes": [
+        {"nome": "------ Massa ------", "quantidade": ""},
         {"nome": "Biscoito de maisena", "quantidade": "1 pacote"},
         {"nome": "Manteiga derretida", "quantidade": "150g"},
         {"nome": "Sal", "quantidade": "1 pitada"},
@@ -137,9 +325,145 @@
     ]
 },
 {
+    "id": 11,
+    "nome": "Cheesecake de Goibada Cascão",
+    "tipo": "Sobremesa",
+    "modoPreparo": "No recheio, bater todos os ingrediente (menos os ovos). <br> Assar 180graus, 1h em banho maria.<br> <hr>Para a geleia, colocar Acerola + Açúcar + suco de limão = 1h<br> junte a água no fogo médio por 30 min<br>Passe no espremedor para tirar o caroço",
+    "ingredientes": [
+        {"nome": "------ Massa ------", "quantidade": ""},
+        {"nome": "Biscoito de maisena", "quantidade": "200g"},
+        {"nome": "Manteiga", "quantidade": "100g"},
+        {"nome": "------ Recheio ------", "quantidade": ""},
+        {"nome": "Cheam Cheese", "quantidade": "600g"},
+        {"nome": "Creme de leite", "quantidade": "150g"},
+        {"nome": "Açúcar", "quantidade": "225g"},
+        {"nome": "Suco e raspa de limão", "quantidade": "1/2"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "------ Calda ------", "quantidade": ""},
+        {"nome": "Goiabada cascão", "quantidade": "500g"},
+        {"nome": "Água", "quantidade": "100ml"}
+    ]
+},
+{
+    "id": 11,
+    "nome": "Cheesecake de Nozes e Goiabada",
+    "tipo": "Sobremesa",
+    "modoPreparo": "No recheio, bater todos os ingrediente (menos os ovos). <br> Assar 180graus, 1h em banho maria.<br> <hr>Para a geleia, colocar Acerola + Açúcar + suco de limão = 1h<br> junte a água no fogo médio por 30 min<br>Passe no espremedor para tirar o caroço",
+    "ingredientes": [
+        {"nome": "------ Massa ------", "quantidade": ""},
+        {"nome": "Biscoito de maisena", "quantidade": "200g"},
+        {"nome": "Manteiga", "quantidade": "150g"},
+		{"nome": "Nozes processadas", "quantidade": "100g"},
+        {"nome": "------ Recheio ------", "quantidade": ""},
+        {"nome": "Cheam Cheese", "quantidade": "1,2 kg"},
+        {"nome": "Açúcar", "quantidade": "2 xícaras"},
+        {"nome": "Suco e raspa de limão", "quantidade": "2 colheres"},
+        {"nome": "Extrato de baunilha", "quantidade": "2 colheres"},
+		{"nome": "Ovo", "quantidade": "6 unidades"},
+        {"nome": "------ Calda ------", "quantidade": ""},
+        {"nome": "Goiabada cascão", "quantidade": "500g"},
+        {"nome": "Água", "quantidade": "100ml"}
+    ]
+},
+{
+    "id": 12,
+    "nome": "Pudim de Tapioca",
+    "tipo": "Sobremesa",
+    "modoPreparo": "- Misture a tapioca + leite + leite de coco e deixe repousar por 1h.<br>- No liquidificador, bata os ovos e o leite condensado.<br>- Acrescente a tapioca hidratada e bater no liquidificador.<br>- use açúcar para caramelizar a forma.<br>- despejar na forma<br> - 180 graus coberto com papel de alumínio.",
+    "ingredientes": [
+        {"nome": "Tapioca granulada", "quantidade": "1 xícara"},
+        {"nome": "Leite", "quantidade": "2 xícaras"},
+        {"nome": "Leite de coco", "quantidade": "1 vidro"},
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Leite condensado", "quantidade": "1 lata"},
+        {"nome": "Açúcar refinado", "quantidade": "1 xícara"}
+    ]
+},
+{
+    "id": 13,
+    "nome": "Torta de limão",
+    "tipo": "Sobremesa",
+    "modoPreparo": "",
+    "ingredientes": [
+        {"nome": "------ Massa ------", "quantidade": ""},
+        {"nome": "Biscoito de maisena", "quantidade": "2 pacotes"},
+        {"nome": "Manteiga sem sal", "quantidade": "5 colheres"},
+        {"nome": "------ Recheio ------", "quantidade": ""},
+        {"nome": "Leite Condensado", "quantidade": "1 lata"},
+        {"nome": "Creme de leite sem soro", "quantidade": "1 caixa"},
+        {"nome": "Suco de limão", "quantidade": "2 unidade"}
+    ]
+},
+{
+    "id": 13,
+    "nome": "Panqueca de doce de leite - TERMINAR DEPOIS (não entendi a letra)",
+    "tipo": "Sobremesa",
+    "modoPreparo": "",
+    "ingredientes": [
+        {"nome": "Ovo", "quantidade": "4 unidades"},
+        {"nome": "Água", "quantidade": "1 xícara"},
+        {"nome": "Leite", "quantidade": "1 xícara"},
+        {"nome": "Manteiga derretida", "quantidade": "1 caixa"}
+    ]
+},
+{
+    "id": 98,
+    "nome": "Farofa de Abacaxi",
+    "tipo": "Outros",
+    "modoPreparo": "---",
+    "ingredientes": [
+        {"nome": "Abacaxi cortado", "quantidade": "1 un4"},
+        {"nome": "Manteiga + azeite", "quantidade": "A gosto"},
+        {"nome": "Frambar com alcool", "quantidade": "A gosto"},
+        {"nome": "Cebola", "quantidade": "A gosto"},
+        {"nome": "Sal", "quantidade": "A gosto"},
+		{"nome": "Pimenta do reino", "quantidade": "A gosto"},
+		{"nome": "Farinha de milho", "quantidade": "A gosto"},
+		{"nome": "Manteiga", "quantidade": "A gosto"},
+		{"nome": "Hortelã", "quantidade": "A gosto"}
+    ]
+},
+{
+    "id": 98,
+    "nome": "Fricasse de Frango",
+    "tipo": "Outros",
+    "modoPreparo": "Os primeiro ingredientes devem ser colocados no liquidificador. Os demais devem ser refogados (eu acho). Depois juntar tudo e colocar no forno.",
+    "ingredientes": [
+        {"nome": "------ Liquidificador ------", "quantidade": ""},
+        {"nome": "Creme de leite", "quantidade": "1 caixa"},
+        {"nome": "Requeijão", "quantidade": "1 pote"},
+        {"nome": "Milho verde", "quantidade": "1 lata"},
+        {"nome": "Noz moscada", "quantidade": "A gosto"},
+        {"nome": "Sal", "quantidade": "A gosto"},
+        {"nome": "------ Demais ------", "quantidade": ""},
+        {"nome": "Manteiga", "quantidade": "1 colher"},
+        {"nome": "Alho poró", "quantidade": "1 unidade"},
+        {"nome": "Peito de frando cozido desfiado", "quantidade": "1 peito"},
+        {"nome": "Salsinha", "quantidade": "a gosto"}
+    ]
+},
+{
+    "id": 99,
+    "nome": "Potato Basil Frittada Squares",
+    "tipo": "Outros",
+    "modoPreparo": "- Unte uma forma retangular e grande c manteiga.<br>- Derreter 4 colheres de manteiga e passar a batata.<br>- Misture os ovos, ricota, gruyere, manteiga derretida, sal, pimenta e majericão. Adicione farinha e fermento.<br>- Distribua as batatas na assadeira, adicione a mistura de ovo e queijo. <br>- Assar por 35 e depois que esfriar corte em retângula.",
+    "ingredientes": [
+        {"nome": "Manteiga", "quantidade": "12 colheres"},
+        {"nome": "Batata grande cortada em quadrada e fervida rapidamente", "quantidade": "4 batatas"},
+        {"nome": "Ovo", "quantidade": "12 unidades"},
+        {"nome": "Ricotta", "quantidade": "624g"},
+        {"nome": "Queijo gruyere", "quantidade": "500g"},
+        {"nome": "Sal", "quantidade": "1 caixa"},
+        {"nome": "Pimenta", "quantidade": "1 caixa"},
+        {"nome": "Manjericão", "quantidade": "1 e 1/4 copo"},
+        {"nome": "Farinha de trigo", "quantidade": "1/2 copo"},
+        {"nome": "Fermento para bolo", "quantidade": "1 colher"}
+    ]
+},
+{
     "id": 100,
     "nome": "Sopa Thai de Camarão",
-    "tipo": "Sopa",
+    "tipo": "Outros",
     "modoPreparo": "--",
     "ingredientes": [
         {"nome": "Azeite de oliva", "quantidade": "2 colheres"},
@@ -154,6 +478,31 @@
         {"nome": "Limão", "quantidade": "4 colheres de sopa"},
         {"nome": "Sal", "quantidade": "A gosto"},
         {"nome": "Coentro", "quantidade": "2 colheres de sopa"}
+    ]
+},
+{
+    "id": 100,
+    "nome": "Frango Biryani (indiano)",
+    "tipo": "Outros",
+    "modoPreparo": "Marinar por 1 hora<br> Fritar semente de cominho, aniz, louro, pimenta do reino, sal, turmeric powder, adicionar bastante água fervendo e adicionar arroz que estava de molho. Escorrer arroz quando estiver ao dente.<br>Conzinhar frango: Esquentar óleo, adicionar 2 cebolas cortadas em cubos grande e grem chili e sal.<br> Caramelizar, guardar a metade das cebolas e adicionar o frango na panela. Cozinhar por 10 min.<br> Adicionar coentro e hostelã. <br> Adicionar arroz em camadas.<br> E colocar o resto da cebola em  cima, 1 colher de manteiga.<br>Fogo baixo c tampa, 20 min.",
+    "ingredientes": [
+        {"nome": "Frango (peito, coxa, sobrecoxa)", "quantidade": "1 kg"},
+		{"nome": "Turmeric powder", "quantidade": "1 colher"},
+		{"nome": "Sal", "quantidade": "1 colher"},
+		{"nome": "Pimenta chile em pó", "quantidade": "1 colher"},
+		{"nome": "Cuminho", "quantidade": "1 colher"},
+		{"nome": "Garam massala", "quantidade": "2 colheres"},
+		{"nome": "Pasta de gengibre/alho", "quantidade": "4 colheres"},
+		{"nome": "Cardamamo", "quantidade": "4 unidade"},
+		{"nome": "Canela em pau", "quantidade": "2 unidade"},
+		{"nome": "Cravo", "quantidade": "4 unidade"},
+		{"nome": "Pimenta do reino em grão", "quantidade": "4 unidade"},
+		{"nome": "Anis", "quantidade": "2 unidade"},
+		{"nome": "Hortelã e coentro picado", "quantidade": "A gosto"},
+		{"nome": "Tandori paste??", "quantidade": "1 a 2 potes"},
+		{"nome": "Iogurte", "quantidade": "1 pote"},
+		{"nome": "------ Arroz ------", "quantidade": ""},
+		{"nome": "Arroz basmati", "quantidade": "1kg?"}
     ]
 }
 ]

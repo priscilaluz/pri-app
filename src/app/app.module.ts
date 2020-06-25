@@ -9,7 +9,6 @@ import { HomeComponent } from './home/home.component';
 import { EstudoComponent } from './estudo/estudo.component';
 import { ConstruindoComponent } from './construindo/construindo.component';
 import { ReceitaComponent } from './receita/receita.component';
-import { VerReceitaComponent } from './ver-receita/ver-receita.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
@@ -18,8 +17,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     HomeComponent,
     EstudoComponent,
     ConstruindoComponent,
-    ReceitaComponent,
-    VerReceitaComponent
+    ReceitaComponent
   ],
   imports: [
     BrowserModule,
