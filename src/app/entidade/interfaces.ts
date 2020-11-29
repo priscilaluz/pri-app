@@ -30,3 +30,31 @@ export class Filtro {
         this.tipo = "Todos";
     }
 }
+export class Frances {
+    id: number;
+    portugues: string;
+    ingles: string;
+    frances: string;
+    pronunciaFrances: string;
+
+    constructor() {
+        this.id = null;
+        this.portugues = null;
+        this.ingles = null;
+        this.frances = null;
+        this.pronunciaFrances = null;
+    }
+};
+export class Idioma {
+    perguntaTitulo: string;
+    perguntaDescricao: string;
+    respostaTitulo: string;
+    respostaDescricao: string;
+
+    constructor() {
+        this.perguntaTitulo = null;
+        this.perguntaDescricao = null;
+        this.respostaTitulo = null;
+        this.respostaDescricao = null;
+    }
+};

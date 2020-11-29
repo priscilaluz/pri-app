@@ -10,6 +10,7 @@ import { EstudoComponent } from './estudo/estudo.component';
 import { ConstruindoComponent } from './construindo/construindo.component';
 import { ReceitaComponent } from './receita/receita.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { IdiomaFrancesComponent } from './idioma-frances/idioma-frances.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     HomeComponent,
     EstudoComponent,
     ConstruindoComponent,
-    ReceitaComponent
+    ReceitaComponent,
+    IdiomaFrancesComponent
   ],
   imports: [
     BrowserModule,

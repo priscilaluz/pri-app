@@ -1,0 +1,43 @@
+<form name="itemForm">
+    <fieldset>
+        <legend>Idiomas</legend>
+        <hr>
+        <div class="form-group" *ngIf="!showTeste">
+            <button type="button" class="btn btn-info btn-lg btn-block" (click)="teste(true)">Francês -> Português</button>
+            <button type="button" class="btn btn-info btn-lg btn-block" (click)="teste(false)">Português -> Francês</button>
+        </div>
+        <div class="form-group" *ngIf="showTeste">
+            <div class="row text-center">
+                <div class="col-md-12"style="padding-bottom: 10px;">
+                    <button type="button" class="btn btn-info btn-sm" (click)="trocarCard(-1)">< <</button>
+                    <span> &nbsp; &nbsp;Teste {{posicaoTeste+1}} de {{totalTeste}} &nbsp; &nbsp;</span>
+                    <button type="button" class="btn btn-info btn-sm" (click)="trocarCard(+1)">> ></button>
+                </div>
+                <br>
+                <div class="col-md-12" *ngIf="!cardResposta">
+                    <div class="card" style="width: 18rem; background-color: rgba(255, 153, 0, 0.349);">
+                        <div class="card-body">
+                          <h2 class="card-title">{{sentencaIdioma.perguntaTitulo}}</h2>
+                          <h4 class="card-title">{{sentencaIdioma.perguntaDescricao}}</h4>
+                          <br>
+                          <button type="button" class="btn btn-info" (click)="virar()">Virar</button>
+                        </div>
+                      </div>
+                </div>
+                <div class="col-md-12" *ngIf="cardResposta">
+                    <div class="card" style="width: 18rem; background-color: rgba(255, 153, 0, 0.349);">
+                        <div class="card-body">
+                            <h2 class="card-title">{{sentencaIdioma.respostaTitulo}}</h2>
+                            <h4 class="card-title">{{sentencaIdioma.respostaDescricao}}</h4>
+                          <br>
+                          <button type="button" class="btn btn-info" (click)="virar()">Virar</button>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group" *ngIf="showTeste">
+            <button type="button" class="btn btn-info btn-lg" (click)="voltar()">Voltar</button>
+        </div>
+    </fieldset>
+</form>
