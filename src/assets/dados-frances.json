@@ -642,5 +642,96 @@
     "ingles": "Certainly not",
     "frances": "absolument pas",
     "pronunciaFrances": "Absolumon pá"
-}
+},
+{
+    "id": 1,
+    "portugues": "Três",
+    "ingles": "Three",
+    "frances": "Trois",
+    "pronunciaFrances": "Tor ar"
+ },
+ {
+    "id": 1,
+    "portugues": "Quatro",
+    "ingles": "Four",
+    "frances": "Quatre",
+    "pronunciaFrances": "Catree"
+ },
+ {
+    "id": 1,
+    "portugues": "Cinco",
+    "ingles": "Five",
+    "frances": "Cinq",
+    "pronunciaFrances": "Sanqui"
+ },
+ {
+    "id": 1,
+    "portugues": "É três horas",
+    "ingles": "Its three o’clock",
+    "frances": "Il est trois heures",
+    "pronunciaFrances": "Ile a torar zer"
+ },
+ {
+    "id": 1,
+    "portugues": "É quatro horas",
+    "ingles": "Its four o’clock",
+    "frances": "Il est quatre heure",
+    "pronunciaFrances": "Ili a catrer"
+ },
+ {
+    "id": 1,
+    "portugues": "É cinco horas",
+    "ingles": "Its five o’clock",
+    "frances": "Il est cinq heures",
+    "pronunciaFrances": "Ile sanquer"
+ },
+ {
+    "id": 1,
+    "portugues": "É nove horas",
+    "ingles": "Its nine o’clock",
+    "frances": "Il est neuf heure",
+    "pronunciaFrances": "Ilia é never"
+ },
+ {
+    "id": 1,
+    "portugues": "É quatro horas?",
+    "ingles": "It is four o’clock?",
+    "frances": "Il est quatre heures?",
+    "pronunciaFrances": "Esquili catrer?"
+ },
+ {
+    "id": 1,
+    "portugues": "Que horas são?",
+    "ingles": "What time is it?",
+    "frances": "Quelle heure est-il?",
+    "pronunciaFrances": "Quelor retili?"
+ },
+ {
+    "id": 1,
+    "portugues": "Muito mais tarde",
+    "ingles": "Much later",
+    "frances": "Bien plus tard",
+    "pronunciaFrances": "Bian pri tard"
+ },
+ {
+    "id": 1,
+    "portugues": "Isto é/É",
+    "ingles": "It is",
+    "frances": "Il est",
+    "pronunciaFrances": "Ili é"
+ },
+ {
+    "id": 1,
+    "portugues": "Eu vou",
+    "ingles": "I will",
+    "frances": "Je vais",
+    "pronunciaFrances": "Je vé"
+ },
+ {
+    "id": 1,
+    "portugues": "Você vai/Você ta indo",
+    "ingles": "You are going",
+    "frances": "Vous allez",
+    "pronunciaFrances": "Vuzeli"
+ } 
 ]

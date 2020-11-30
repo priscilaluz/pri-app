@@ -24,7 +24,7 @@ export class IdiomaFrancesComponent implements OnInit {
 
   ngOnInit() {
     this.http.get<Frances[]>('assets/dados-frances.json').subscribe(response => {
-      this.sentencas = response;
+      this.sentencas = this.shuffleArray(response);
     });
   }
   todasPalavras(mostrar: boolean, frances: boolean) {
@@ -69,5 +69,15 @@ export class IdiomaFrancesComponent implements OnInit {
     this.showTodasPalavras = false;
     this.showTodasPalavrasFrances = false;
   }
+  shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+
 
 }
