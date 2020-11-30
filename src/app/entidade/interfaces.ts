@@ -36,6 +36,8 @@ export class Frances {
     ingles: string;
     frances: string;
     pronunciaFrances: string;
+    mostrarFrances: boolean;
+    mostrarPortugues: boolean;
 
     constructor() {
         this.id = null;
@@ -43,6 +45,8 @@ export class Frances {
         this.ingles = null;
         this.frances = null;
         this.pronunciaFrances = null;
+        this.mostrarFrances = false;
+        this.mostrarPortugues = false;
     }
 };
 export class Idioma {
@@ -50,11 +54,13 @@ export class Idioma {
     perguntaDescricao: string;
     respostaTitulo: string;
     respostaDescricao: string;
+    
 
     constructor() {
         this.perguntaTitulo = null;
         this.perguntaDescricao = null;
         this.respostaTitulo = null;
         this.respostaDescricao = null;
+        
     }
 };

@@ -9,16 +9,16 @@ import { Frances, Idioma } from '../entidade/interfaces';
   styleUrls: ['./idioma-frances.component.css']
 })
 export class IdiomaFrancesComponent implements OnInit {
-  cardResposta: boolean;
-  showTeste: boolean;
+  cardResposta: boolean = false;
+  showTeste: boolean = false;
+  showTodasPalavras: boolean = false;
+  showTodasPalavrasFrances: boolean = false;
   sentencas: Frances[];
   testesIdioma: Idioma[] = [];
   sentencaIdioma: Idioma = null;
   posicaoTeste: number = 0;
   totalTeste: number = 0;
   constructor(public http: HttpClient, private modalService: NgbModal) { 
-    this.cardResposta = false;
-    this.showTeste = false;
   }
   
 
@@ -27,6 +27,15 @@ export class IdiomaFrancesComponent implements OnInit {
       this.sentencas = response;
     });
   }
+  todasPalavras(mostrar: boolean, frances: boolean) {
+    this.showTodasPalavras = mostrar;
+    this.showTodasPalavrasFrances = frances;
+    for (let i = 0; i < this.sentencas.length; i++) {
+      this.sentencas[i].mostrarPortugues = !frances;
+      this.sentencas[i].mostrarFrances = frances;
+    }
+  }
+
   virar() {
     this.cardResposta = !this.cardResposta;
   }
@@ -57,6 +66,8 @@ export class IdiomaFrancesComponent implements OnInit {
   }
   voltar() {
     this.showTeste = false;
+    this.showTodasPalavras = false;
+    this.showTodasPalavrasFrances = false;
   }
 
 }
