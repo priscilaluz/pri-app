@@ -31,7 +31,6 @@ export class Filtro {
     }
 }
 export class Frances {
-    id: number;
     portugues: string;
     ingles: string;
     frances: string;
@@ -40,7 +39,6 @@ export class Frances {
     mostrarPortugues: boolean;
 
     constructor() {
-        this.id = null;
         this.portugues = null;
         this.ingles = null;
         this.frances = null;

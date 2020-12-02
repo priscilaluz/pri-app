@@ -1,737 +1,722 @@
 [
 {
-    "id": 1,
     "portugues": "Um",
     "ingles": "One",
     "frances": "Un",
     "pronunciaFrances": "Am"
 },
 {
-    "id": 1,
     "portugues": "Dois",
     "ingles": "Two",
     "frances": "Deux",
     "pronunciaFrances": "D"
 },
 {
-    "id": 1,
     "portugues": "Oito",
     "ingles": "Eight",
     "frances": "Huit",
     "pronunciaFrances": "Uit"
 },
 {
-    "id": 1,
     "portugues": "Nove",
     "ingles": "Nine",
     "frances": "Neuf",
     "pronunciaFrances": "Nef"
 },
 {
-    "id": 1,
     "portugues": "A uma hora",
     "ingles": "At one o'clock",
     "frances": "À une heure",
     "pronunciaFrances": "A um nerr"
 },
 {
-    "id": 1,
     "portugues": "As duas horas",
     "ingles": "At two o'clock",
     "frances": "À deux heures",
     "pronunciaFrances": "A d zer"
 },
 {
-    "id": 1,
     "portugues": "As oito horas",
     "ingles": "At eight o'clock",
     "frances": "À huit heures",
     "pronunciaFrances": "A uiter"
 },
 {
-    "id": 1,
     "portugues": "Às nove horas",
     "ingles": "At nine o'clock",
     "frances": "À neuf heures",
     "pronunciaFrances": "A never"
 },
 {
-    "id": 1,
     "portugues": "O",
     "ingles": "The",
     "frances": "Le",
     "pronunciaFrances": "Lê"
 },
 {
-    "id": 1,
     "portugues": "A",
     "ingles": "The",
     "frances": "La",
     "pronunciaFrances": "La"
 },
 {
-    "id": 1,
     "portugues": "No",
     "ingles": "At the",
     "frances": "Au",
     "pronunciaFrances": "Ô"
 },
 {
-    "id": 1,
     "portugues": "Ou",
     "ingles": "Or",
     "frances": "Ou",
     "pronunciaFrances": "U"
 },
 {
-    "id": 1,
     "portugues": "Com",
     "ingles": "With",
     "frances": "Avec",
     "pronunciaFrances": "Avec"
 },
 {
-    "id": 1,
     "portugues": "Oi",
     "ingles": "Hello",
     "frances": "Bonjour",
     "pronunciaFrances": "Bonjur"
 },
 {
-    "id": 1,
     "portugues": "Desculpe",
     "ingles": "Excuse me",
     "frances": "Pardon",
     "pronunciaFrances": "Pardon"
 },
 {
-    "id": 1,
     "portugues": "Por favor",
     "ingles": "Please",
     "frances": "S'il vous plaît",
     "pronunciaFrances": "Silivuple"
 },
 {
-    "id": 1,
     "portugues": "Obrigada",
     "ingles": "Thanks",
     "frances": "Merci",
     "pronunciaFrances": "Merci"
 },
 {
-    "id": 1,
     "portugues": "Quando",
     "ingles": "When",
     "frances": "Quand",
     "pronunciaFrances": "Con"
 },
 {
-    "id": 1,
     "portugues": "O que",
     "ingles": "What",
     "frances": "Quoi",
     "pronunciaFrances": "Qua"
 },
 {
-    "id": 1,
     "portugues": "Onde",
     "ingles": "Where",
     "frances": "Où",
     "pronunciaFrances": "U"
 },
 {
-    "id": 1,
     "portugues": "Quem",
     "ingles": "Who",
     "frances": "Qui",
     "pronunciaFrances": "Qui"
 },
 {
-    "id": 1,
     "portugues": "Qualquer coisa",
     "ingles": "Anything/Something",
     "frances": "Quelque chose",
     "pronunciaFrances": "Quelque chose"
 },
 {
-    "id": 1,
     "portugues": "Bem",
     "ingles": "Fine",
     "frances": "Bien",
     "pronunciaFrances": "Bian"
 },
 {
-    "id": 1,
     "portugues": "Muito",
     "ingles": "Very",
     "frances": "Très",
     "pronunciaFrances": "Trê"
 },
 {
-    "id": 1,
     "portugues": "Mas",
     "ingles": "But",
     "frances": "Mais",
     "pronunciaFrances": "Mê"
 },
 {
-    "id": 1,
     "portugues": "Também",
     "ingles": "Too",
     "frances": "Aussi",
     "pronunciaFrances": "Ouci"
 },
 {
-    "id": 1,
     "portugues": "É",
     "ingles": "Is",
     "frances": "Est",
     "pronunciaFrances": "É"
 },
 {
-    "id": 1,
     "portugues": "Agora",
     "ingles": "Now",
     "frances": "Maintenant",
     "pronunciaFrances": "Mantnon"
 },
 {
-    "id": 1,
     "portugues": "Aqui",
     "ingles": "Here",
     "frances": "Ici",
     "pronunciaFrances": "Ici"
 },
 {
-    "id": 1,
     "portugues": "Mais tarde",
     "ingles": "Later",
     "frances": "Plus tard",
     "pronunciaFrances": "Pri tar"
 },
 {
-    "id": 1,
     "portugues": "Ok",
     "ingles": "Alright/Ok/Agree",
     "frances": "D'accord",
     "pronunciaFrances": "Decor"
 },
 {
-    "id": 1,
     "portugues": "Absolutamente",
     "ingles": "Certainly",
     "frances": "Absolument",
     "pronunciaFrances": "Absolumon"
 },
 {
-    "id": 1,
     "portugues": "Senhor",
     "ingles": "Sir",
     "frances": "Monsieur",
     "pronunciaFrances": "Messier"
 },
 {
-    "id": 1,
     "portugues": "Senhora",
     "ingles": "Mrs",
     "frances": "Madame",
     "pronunciaFrances": "Madam"
 },
 {
-    "id": 1,
     "portugues": "Senhorita",
     "ingles": "Ms",
     "frances": "Mademoiselle",
     "pronunciaFrances": "Mademoseli"
 },
 {
-    "id": 1,
     "portugues": "Santo/Santa",
     "ingles": "Saint",
     "frances": "Saint/Sainte",
     "pronunciaFrances": "San/Sant"
 },
 {
-    "id": 1,
     "portugues": "Rua",
     "ingles": "Street",
     "frances": "Rue",
     "pronunciaFrances": "Rue"
 },
 {
-    "id": 1,
     "portugues": "Vinho",
     "ingles": "Wine",
     "frances": "Vin",
     "pronunciaFrances": "Van"
 },
 {
-    "id": 1,
     "portugues": "Cerveja",
     "ingles": "Beer",
     "frances": "Bière",
     "pronunciaFrances": "Bier"
 },
 {
-    "id": 1,
     "portugues": "Restaurante",
     "ingles": "Restaurant",
     "frances": "Restaurant",
     "pronunciaFrances": "Restorran"
 },
 {
-    "id": 1,
     "portugues": "Hotel",
     "ingles": "Hotel",
     "frances": "Hôtel",
     "pronunciaFrances": "Oteli"
 },
 {
-    "id": 1,
     "portugues": "Falar",
     "ingles": "Speak",
     "frances": "Parler",
     "pronunciaFrances": "Parley"
 },
 {
-    "id": 1,
     "portugues": "Eu falo",
     "ingles": "I speak",
     "frances": "Je parle",
     "pronunciaFrances": "Jé parle"
 },
 {
-    "id": 1,
     "portugues": "Tu fala",
     "ingles": "You speak",
     "frances": "Vous parlez",
     "pronunciaFrances": "Vo parley"
 },
 {
-    "id": 1,
     "portugues": "Me fale",
     "ingles": "Tell me",
     "frances": "Dîtes-moi",
     "pronunciaFrances": "Dit mua"
 },
 {
-    "id": 1,
     "portugues": "Entender",
     "ingles": "Understand",
     "frances": "Comprendre",
     "pronunciaFrances": "Componer"
 },
 {
-    "id": 1,
     "portugues": "Eu entendo",
     "ingles": "I understand",
     "frances": "Je comprends",
     "pronunciaFrances": "Jé Compô"
 },
 {
-    "id": 1,
     "portugues": "Tu entende",
     "ingles": "You understand",
     "frances": "Vous comprenez",
     "pronunciaFrances": "Vo componer"
 },
 {
-    "id": 1,
     "portugues": "Eu quero",
     "ingles": "I want",
     "frances": "Je veux",
     "pronunciaFrances": "Je Ver"
 },
 {
-    "id": 1,
     "portugues": "Você quer",
     "ingles": "You want",
     "frances": "Vous voulex",
     "pronunciaFrances": "Vu Vuléy"
 },
 {
-    "id": 1,
     "portugues": "Eu gostaria de",
     "ingles": "I would like",
     "frances": "Je voudrais",
     "pronunciaFrances": "Je Vudtrie"
 },
 {
-    "id": 1,
     "portugues": "Você gostaria",
     "ingles": "You would like",
     "frances": "Vous voudrais",
     "pronunciaFrances": "Vu Vudtrie"
 },
 {
-    "id": 1,
     "portugues": "E sabia",
     "ingles": "I knew",
     "frances": "Je savais",
     "pronunciaFrances": "Je saver"
 },
 {
-    "id": 1,
     "portugues": "Eu sei",
     "ingles": "I know",
     "frances": "Je sais",
     "pronunciaFrances": "Je sé"
 },
 {
-    "id": 1,
     "portugues": "Eu não sei",
     "ingles": "I don't know",
     "frances": "Je ne sais pas",
     "pronunciaFrances": "Je né sé pá"
 },
 {
-    "id": 1,
     "portugues": "Comer",
     "ingles": "Eat",
     "frances": "Manger",
     "pronunciaFrances": "Manger"
 },
 {
-    "id": 1,
     "portugues": "Beber",
     "ingles": "Drink",
     "frances": "Boisson",
     "pronunciaFrances": "Bouar"
 },
 {
-    "id": 1,
     "portugues": "Comprar",
     "ingles": "To buy",
     "frances": "Acheter",
     "pronunciaFrances": "Acheter"
 },
 {
-    "id": 1,
     "portugues": "Fazer",
     "ingles": "To do",
     "frances": "Faire",
     "pronunciaFrances": "Fer"
 },
 {
-    "id": 1,
     "portugues": "Almoçar",
     "ingles": "To have lunch",
     "frances": "Déjeuner",
     "pronunciaFrances": "Dejané"
 },
 {
-    "id": 1,
     "portugues": "Algum vinho",
     "ingles": "Some wine",
     "frances": "De vin",
     "pronunciaFrances": "D van"
 },
 {
-    "id": 1,
     "portugues": "Alguma cerveja",
     "ingles": "Some beer",
     "frances": "De la bière",
     "pronunciaFrances": "D la bier"
 },
 {
-    "id": 1,
     "portugues": "É aqui",
     "ingles": "It’s here",
     "frances": "C'est ici",
     "pronunciaFrances": "Cet icí"
 },
 {
-    "id": 1,
     "portugues": "Lá em baixo",
     "ingles": "Down there",
     "frances": "Là-bas",
     "pronunciaFrances": "La barr"
 },
 {
-    "id": 1,
     "portugues": "Aqui não",
     "ingles": "Not here",
     "frances": "Pas ici",
     "pronunciaFrances": "Par zici"
 },
 {
-    "id": 1,
     "portugues": "Agora não",
     "ingles": "Not now",
     "frances": "Pas maintenant",
     "pronunciaFrances": "Pan mantnon"
 },
 {
-    "id": 1,
     "portugues": "Na minha casa",
     "ingles": "At my place",
     "frances": "Chez moi",
     "pronunciaFrances": "Ché Mua"
 },
 {
-    "id": 1,
     "portugues": "Na sua casa",
     "ingles": "At your place",
     "frances": "Chez vous",
     "pronunciaFrances": "Ché Vu"
 },
 {
-    "id": 1,
     "portugues": "Quem, eu?",
     "ingles": "Who Me?",
     "frances": "Moi?",
     "pronunciaFrances": "Mua?"
 },
 {
-    "id": 1,
     "portugues": "Como você está?",
     "ingles": "How are you?",
     "frances": "Comment allez-vous?",
     "pronunciaFrances": "Como talevu?"
 },
 {
-    "id": 1,
     "portugues": "Você está bem?",
     "ingles": "Are you well?",
     "frances": "Est-ce que vous allez bien?",
     "pronunciaFrances": "Escovozele bian?"
 },
 {
-    "id": 1,
     "portugues": "Estou bem",
     "ingles": "I’m fine",
     "frances": "Je vais bien",
     "pronunciaFrances": "Je vê bian"
 },
 {
-    "id": 1,
     "portugues": "Não estou muito bem",
     "ingles": "I’m not very well",
     "frances": "Je ne vais pas très bien",
     "pronunciaFrances": "Je ne ze par tre bian"
 },
 {
-    "id": 1,
     "portugues": "Sim, eu realmente gostaria",
     "ingles": "Yes, I really want to/ Yes, I like to",
     "frances": "Oui, Je vais bien",
     "pronunciaFrances": "Oui, je ve bien"
 },
 {
-    "id": 1,
     "portugues": "Eu gostaria de comer aqui",
     "ingles": "I would like to eat here.",
     "frances": "Je voudrais manger ici",
     "pronunciaFrances": "Je voudrer manjer ici"
 },
 {
-    "id": 1,
     "portugues": "Quando você gostaria de comer?",
     "ingles": "When would you like to eat?",
     "frances": "Quand est-ce que vous voudriez manger?",
     "pronunciaFrances": "Cont esco vu vutdrie manjer?"
 },
 {
-    "id": 1,
     "portugues": "Onde você gostaria de comer?",
     "ingles": "Where would you like to eat?",
     "frances": "Où est-ce que vous voudriez manger?",
     "pronunciaFrances": "U esco vu vutdrie manjer?"
 },
 {
-    "id": 1,
     "portugues": "O que você gostaria de comer?",
     "ingles": "What do you like to eat?",
     "frances": "Qu' est-ce que vous voudriez manger?",
     "pronunciaFrances": "Quesco vu vudrie manjer?"
 },
 {
-    "id": 1,
     "portugues": "Onde é o restaurante?",
     "ingles": "Where is the restaurant?",
     "frances": "Où est le restaurant?",
     "pronunciaFrances": "U é lê restorran?"
 },
 {
-    "id": 1,
     "portugues": "Você não gostaria de beber alguma coisa?",
     "ingles": "You wouldn't like to drink something?",
     "frances": "Vous ne voudrais pas boire quelque chose?",
     "pronunciaFrances": "Vu ne vudrie pá buar calquer chozer"
 },
 {
-    "id": 1,
     "portugues": "O que você quer fazer?",
     "ingles": "What do you want to do?",
     "frances": "Qu'est-ce que vous voulez faire?",
     "pronunciaFrances": "Quesco vu vule ferr"
 },
 {
-    "id": 1,
     "portugues": "O que você gostaria de fazer?",
     "ingles": "What would you like to do?",
     "frances": "Qu'est-ce que vous voudriez faire",
     "pronunciaFrances": "Quesco vu vudrie ferr"
 },
 {
-    "id": 1,
     "portugues": "Eu gostaria de comprar algo",
     "ingles": "I would you like to buy something",
     "frances": "Je voudrais acheter quelque chose",
     "pronunciaFrances": "Je vudré ache t cualque chose"
 },
 {
-    "id": 1,
     "portugues": "É na rua santo Jac",
     "ingles": "It is on the street san Jac",
     "frances": "C'est rue sainte Jac",
     "pronunciaFrances": "C rui saint jac"
 },
 {
-    "id": 1,
     "portugues": "No hotel",
     "ingles": "At the hotel",
     "frances": "À l'hôtel",
     "pronunciaFrances": "A loteLL"
 },
 {
-    "id": 1,
     "portugues": "Com quem?",
     "ingles": "With whom?",
     "frances": "Avec qui?",
     "pronunciaFrances": "Ave ki?"
 },
 {
-    "id": 1,
     "portugues": "Comigo?",
     "ingles": "With me?",
     "frances": "Avec qui moi?",
     "pronunciaFrances": "Ave ki mua?"
 },
 {
-    "id": 1,
     "portugues": "Não, não no hotel",
     "ingles": "No, not in the hotel",
     "frances": "Non, pas à l'hôtel",
     "pronunciaFrances": "Non pása lolel"
 },
 {
-    "id": 1,
     "portugues": "A que horas?",
     "ingles": "At what time?",
     "frances": "À quelle heure?",
     "pronunciaFrances": "A que lôr?"
 },
 {
-    "id": 1,
     "portugues": "Você sabe?",
     "ingles": "Do you know?",
     "frances": "Est-ce que vous savez?/Savez-vous?",
     "pronunciaFrances": "Esco vo saver?/Saver vu?"
 },
 {
-    "id": 1,
     "portugues": "Eu não",
     "ingles": "Not me",
     "frances": "Pas moi",
     "pronunciaFrances": "Pa mua"
 },
 {
-    "id": 1,
     "portugues": "Absolutamente não",
     "ingles": "Certainly not",
     "frances": "absolument pas",
     "pronunciaFrances": "Absolumon pá"
 },
 {
-    "id": 1,
     "portugues": "Três",
     "ingles": "Three",
     "frances": "Trois",
     "pronunciaFrances": "Tor ar"
  },
  {
-    "id": 1,
     "portugues": "Quatro",
     "ingles": "Four",
     "frances": "Quatre",
     "pronunciaFrances": "Catree"
  },
  {
-    "id": 1,
     "portugues": "Cinco",
     "ingles": "Five",
     "frances": "Cinq",
     "pronunciaFrances": "Sanqui"
  },
  {
-    "id": 1,
     "portugues": "É três horas",
     "ingles": "Its three o’clock",
     "frances": "Il est trois heures",
     "pronunciaFrances": "Ile a torar zer"
  },
  {
-    "id": 1,
     "portugues": "É quatro horas",
     "ingles": "Its four o’clock",
     "frances": "Il est quatre heure",
     "pronunciaFrances": "Ili a catrer"
  },
  {
-    "id": 1,
     "portugues": "É cinco horas",
     "ingles": "Its five o’clock",
     "frances": "Il est cinq heures",
     "pronunciaFrances": "Ile sanquer"
  },
  {
-    "id": 1,
     "portugues": "É nove horas",
     "ingles": "Its nine o’clock",
     "frances": "Il est neuf heure",
     "pronunciaFrances": "Ilia é never"
  },
  {
-    "id": 1,
     "portugues": "É quatro horas?",
     "ingles": "It is four o’clock?",
     "frances": "Il est quatre heures?",
     "pronunciaFrances": "Esquili catrer?"
  },
  {
-    "id": 1,
     "portugues": "Que horas são?",
     "ingles": "What time is it?",
     "frances": "Quelle heure est-il?",
     "pronunciaFrances": "Quelor retili?"
  },
  {
-    "id": 1,
     "portugues": "Muito mais tarde",
     "ingles": "Much later",
     "frances": "Bien plus tard",
     "pronunciaFrances": "Bian pri tard"
  },
  {
-    "id": 1,
     "portugues": "Isto é/É",
     "ingles": "It is",
     "frances": "Il est",
     "pronunciaFrances": "Ili é"
  },
  {
-    "id": 1,
     "portugues": "Eu vou",
     "ingles": "I will",
     "frances": "Je vais",
     "pronunciaFrances": "Je vé"
  },
  {
-    "id": 1,
     "portugues": "Você vai/Você ta indo",
     "ingles": "You are going",
     "frances": "Vous allez",
     "pronunciaFrances": "Vuzeli"
+ },
+ {
+    "portugues": "Seis",
+    "ingles": "Six",
+    "frances": "Six",
+    "pronunciaFrances": "Sis"
+ },
+ {
+    "portugues": "Sete",
+    "ingles": "Seven",
+    "frances": "Sept",
+    "pronunciaFrances": "Set"
+ },
+ {
+    "portugues": "Dez",
+    "ingles": "Ten",
+    "frances": "Dix",
+    "pronunciaFrances": "Dis"
+ },
+ {
+    "portugues": "As seis horas",
+    "ingles": "At six o’clock",
+    "frances": "À six heures",
+    "pronunciaFrances": "A cis zer"
+ },
+ {
+    "portugues": "As sete horas",
+    "ingles": "At seven o’clock",
+    "frances": "À sept heures",
+    "pronunciaFrances": "A c ter"
+ },
+ {
+    "portugues": "As dez horas",
+    "ingles": "At ten o’clock",
+    "frances": "À dix heures",
+    "pronunciaFrances": "A di zer"
+ },
+ {
+    "portugues": "Nesse caso/Então",
+    "ingles": "In that case/Than/So",
+    "frances": "Alors",
+    "pronunciaFrances": "Alór"
+ },
+ {
+    "portugues": "Noite",
+    "ingles": "Evening",
+    "frances": "Soir",
+    "pronunciaFrances": "Soar"
+ },
+ {
+    "portugues": "Nessa noite/A noite",
+    "ingles": "This evening/Tonight",
+    "frances": "Ce soir",
+    "pronunciaFrances": "C soar"
+ },
+ {
+    "portugues": "Hoje",
+    "ingles": "Today",
+    "frances": "Aujourd'hui",
+    "pronunciaFrances": "Hojo dui"
+ },
+ {
+    "portugues": "Amanhã",
+    "ingles": "Tomorrow",
+    "frances": "Demain",
+    "pronunciaFrances": "D man"
+ },
+ {
+    "portugues": "Vejo você amanhã",
+    "ingles": "See you tomorrow",
+    "frances": "À demain",
+    "pronunciaFrances": "A D man"
+ },
+ {
+    "portugues": "Jantar",
+    "ingles": "To have dinner",
+    "frances": "Dîner",
+    "pronunciaFrances": "Dinér"
+ },
+ {
+    "portugues": "Repita",
+    "ingles": "Repeat",
+    "frances": "Répéter",
+    "pronunciaFrances": "Rê P T"
+ },
+ {
+    "portugues": "Escute",
+    "ingles": "Listen",
+    "frances": "Ecoutez",
+    "pronunciaFrances": "Ecuter"
  } 
 ]
