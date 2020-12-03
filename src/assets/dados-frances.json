@@ -2,8 +2,8 @@
 {
     "portugues": "Um",
     "ingles": "One",
-    "frances": "Un",
-    "pronunciaFrances": "Am"
+    "frances": "Un/Une (Feminino/Masculino)",
+    "pronunciaFrances": "An/Une"
 },
 {
     "portugues": "Dois",
@@ -435,7 +435,7 @@
     "portugues": "Não estou muito bem",
     "ingles": "I’m not very well",
     "frances": "Je ne vais pas très bien",
-    "pronunciaFrances": "Je ne ze par tre bian"
+    "pronunciaFrances": "Je ne ve par tre bian"
 },
 {
     "portugues": "Sim, eu realmente gostaria",
@@ -621,7 +621,7 @@
     "portugues": "Eu vou",
     "ingles": "I will",
     "frances": "Je vais",
-    "pronunciaFrances": "Je vé"
+    "pronunciaFrances": "Je vié"
  },
  {
     "portugues": "Você vai/Você ta indo",
@@ -718,5 +718,107 @@
     "ingles": "Listen",
     "frances": "Ecoutez",
     "pronunciaFrances": "Ecuter"
+ },
+ {
+    "portugues": "Diga",
+    "ingles": " Say",
+    "frances": "Dîtes",
+    "pronunciaFrances": "Dit"
+ },
+ {
+    "portugues": "Você não vai beber?",
+    "ingles": " Aren’t you going to drink?",
+    "frances": "Vous ne vas pas boire?",
+    "pronunciaFrances": "Vo ne lei pá boar?"
+ },
+ {
+    "portugues": "Quanto?",
+    "ingles": " How much?",
+    "frances": "Combien?",
+    "pronunciaFrances": "Combiam?"
+ },
+ {
+    "portugues": "Dever",
+    "ingles": " Owe",
+    "frances": "Dois",
+    "pronunciaFrances": "doar"
+ },
+ {
+    "portugues": "Eu devo a você",
+    "ingles": " I owe you",
+    "frances": "Je vous dois",
+    "pronunciaFrances": "Je vu doar"
+ },
+ {
+    "portugues": "Quanto eu devo a você?",
+    "ingles": " How much do I owe you?",
+    "frances": "Je vous dois Combien?",
+    "pronunciaFrances": "Je vu doar combiam?"
+ },
+ {
+    "portugues": "Eu te devo cinco francos?",
+    "ingles": " Do I owe you five franck?",
+    "frances": "Est-ce que je vous dois cinq francs?",
+    "pronunciaFrances": "Esco Je vu doar sanqui fanr?"
+ },
+ {
+    "portugues": "Um franco",
+    "ingles": " One franc",
+    "frances": "Un franc",
+    "pronunciaFrances": "Am fanr"
+ },
+ {
+    "portugues": "Franco (moeda frança)",
+    "ingles": " Franc",
+    "frances": "Franc",
+    "pronunciaFrances": "Fanr"
+ },
+ {
+    "portugues": "Seis franco",
+    "ingles": " Six franc",
+    "frances": "Six francs",
+    "pronunciaFrances": "Si fanr"
+ },
+ {
+    "portugues": "Oito franco",
+    "ingles": " Eight franc",
+    "frances": "Huit francs",
+    "pronunciaFrances": "Ui fanr"
+ },
+ {
+    "portugues": "Dez franco",
+    "ingles": "Ten franc",
+    "frances": "Dix francs",
+    "pronunciaFrances": "Di fanr"
+ },
+ {
+    "portugues": "Onze",
+    "ingles": " Eleven",
+    "frances": "Onze",
+    "pronunciaFrances": "Onzi"
+ },
+ {
+    "portugues": "Doze",
+    "ingles": " Twelve",
+    "frances": "Douze",
+    "pronunciaFrances": "Duzi"
+ },
+ {
+    "portugues": "Treze",
+    "ingles": " Thirteen",
+    "frances": "Treize",
+    "pronunciaFrances": "Trêze"
+ },
+ {
+    "portugues": "Eu te entendo",
+    "ingles": " I understand you",
+    "frances": "Je vou comprends",
+    "pronunciaFrances": "Je vu compon"
+ },
+ {
+    "portugues": "Escute agora",
+    "ingles": " Listen now",
+    "frances": "Écoute maintenant",
+    "pronunciaFrances": "Ecuter mantnon"
  } 
 ]
