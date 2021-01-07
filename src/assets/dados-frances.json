@@ -820,5 +820,139 @@
     "ingles": " Listen now",
     "frances": "Écoute maintenant",
     "pronunciaFrances": "Ecuter mantnon"
- } 
+ },
+ {
+    "portugues": "As cinco horas eu vou comer.",
+    "ingles": "At five o'clock I'm going to eat.",
+    "frances": "A cinq heures, je vais manger.",
+    "pronunciaFrances": "A sanquer Je vê manger"
+},
+{
+    "portugues": "Você vai comer?",
+    "ingles": "You going to eat?",
+    "frances": "Vous allez manger?",
+    "pronunciaFrances": "Vuzeli manger?"
+},
+{
+    "portugues": "Você vai beber vinho?",
+    "ingles": "Are you going to drink wine?",
+    "frances": "Est-ce que vous allez boire du vin?",
+    "pronunciaFrances": "Esco vuzeli boar D van?"
+}, {
+    "portugues": "Eu vou beber vinho",
+    "ingles": "I'm going to drink beer",
+    "frances": "Je vais boire de la bière",
+    "pronunciaFrances": "Je vê boar D lá bier."
+}, {
+    "portugues": "Eu estou ouvindo",
+    "ingles": "I'm listening",
+    "frances": "J'écoute",
+    "pronunciaFrances": "Je ecut"
+}, {
+    "portugues": "Eu estou repetindo",
+    "ingles": "I'm repeating",
+    "frances": "Je répète",
+    "pronunciaFrances": "Je Répét"
+}, {
+    "portugues": "Boa noite",
+    "ingles": "Good evening",
+    "frances": "Bonsoir",
+    "pronunciaFrances": "Bom soar"
+}, {
+    "portugues": "Você tem",
+    "ingles": "You have",
+    "frances": "Vous avez",
+    "pronunciaFrances": "Vusaver"
+}, {
+    "portugues": "Continue",
+    "ingles": "Continue",
+    "frances": "Continuer",
+    "pronunciaFrances": "Continuer"
+}, {
+    "portugues": "Catorze",
+    "ingles": "Fourteen",
+    "frances": "Quatorze",
+    "pronunciaFrances": "Catorzi"
+}, {
+    "portugues": "Eu tenho",
+    "ingles": "I have",
+    "frances": "J'ai",
+    "pronunciaFrances": "Jé"
+}, {
+    "portugues": "Dólar",
+    "ingles": "Dollar",
+    "frances": "Dollar",
+    "pronunciaFrances": "Dular"
+}, {
+    "portugues": "Quinze",
+    "ingles": "Fifteen",
+    "frances": "Quinze",
+    "pronunciaFrances": "Canzi"
+}, {
+    "portugues": "Dezesseis",
+    "ingles": "Sixteen ",
+    "frances": "Seize",
+    "pronunciaFrances": "Cerzi"
+}, {
+    "portugues": "Você tem quantos dólares?",
+    "ingles": "Do you have how many dollars?",
+    "frances": "Vous avez combien de dollars?",
+    "pronunciaFrances": "Vusaver combiam D dolar?"
+}, {
+    "portugues": "Você tem dezesseis francos?",
+    "ingles": "Have you got sixteen francs?",
+    "frances": "Vous avez seize francs?",
+    "pronunciaFrances": "Esco vusaver cerzi fan?"
+}, {
+    "portugues": "Você não tem dezesseis dólares?",
+    "ingles": "You don't have sixteen dollars?",
+    "frances": "Vous n'avez pas seize dollars?",
+    "pronunciaFrances": "Vu né vé pa cerzi dolar?"
+}, {
+    "portugues": "E em dólares",
+    "ingles": "And in dollars?",
+    "frances": "Et en dollars?",
+    "pronunciaFrances": "É on dolar?"
+}, {
+    "portugues": "Em",
+    "ingles": "In",
+    "frances": "En",
+    "pronunciaFrances": "On"
+}, {
+    "portugues": "A vendedora",
+    "ingles": "The saleswoman",
+    "frances": "La vendeuse",
+    "pronunciaFrances": "La vandozi"
+}, {
+    "portugues": "Você me deve onze francos",
+    "ingles": "You owe me eleven francs",
+    "frances": "Vous me dois onze francs",
+    "pronunciaFrances": "Vu mê dever onzi farc"
+}, {
+    "portugues": "Quantos dólares você tem?",
+    "ingles": "How many dollar do you want?",
+    "frances": "Vous voulez combien de dollars?",
+    "pronunciaFrances": "Vu vuley combiam d dolar?"
+}, {
+    "portugues": "Eu devo",
+    "ingles": "I owe",
+    "frances": "Je dois",
+    "pronunciaFrances": "Je doar"
+}, {
+    "portugues": "Você deve",
+    "ingles": "You owe",
+    "frances": "Vous devez",
+    "pronunciaFrances": "Vu dever"
+}, {
+    "portugues": "Você me deve",
+    "ingles": "You owe me",
+    "frances": "Vous me dois",
+    "pronunciaFrances": "Vu me dever"
+}, {
+    "portugues": "Isso é quanto?",
+    "ingles": "How much it is?",
+    "frances": "C'est combien?",
+    "pronunciaFrances": "C combiam?"
+}
+
 ]
